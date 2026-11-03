@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
         System.out.println("Welcome to My Java Mobile Portfolio App!");
+        System.out.println("Navigating to About Activity...");
     }
 }
